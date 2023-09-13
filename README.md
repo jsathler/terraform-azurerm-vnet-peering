@@ -1,4 +1,4 @@
-# Azure Virtual Network Gateway Terraform module
+# Azure Virtual Network Peering Terraform module
 
 Terraform module which creates Azure Virtual Network Peering on Azure.
 
